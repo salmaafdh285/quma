@@ -1,0 +1,1 @@
+<img src="{{ asset('logo/qumahitam.png') }}" width="300px">
